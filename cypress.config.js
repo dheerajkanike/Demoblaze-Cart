@@ -1,9 +1,12 @@
-const { defineConfig } = require("cypress");
+const { defineConfig } = require('cypress');
 
 module.exports = defineConfig({
   e2e: {
-    baseUrl: "https://www.demoblaze.com",
-    supportFile: "cypress/support/e2e.js",
-    specPattern: "cypress/e2e/*.cy.js",
-  },
+    baseUrl: "https://www.demoblaze.com", 
+    viewportWidth: 1280,
+    viewportHeight: 720,
+    setupNodeEvents(on, config) {
+      // Add plugins or configurations if needed
+    }
+  }
 });
