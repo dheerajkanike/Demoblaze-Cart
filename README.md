@@ -77,6 +77,9 @@ Mind Map 🧠
 ✅ Clear documentation, including test plans, bug reports, and summary reports.
 ✅ Enhanced cart page reliability for a seamless shopping experience.
 
+🤝 Contributions We welcome contributions! Feel free to work and edit if any changes needs in this repository, make changes in a new branch, and submit a pull request. Make sure your code is tested and follows the project’s style.
+📞 Contact If you have questions or need help, contact us at dheerajkanike2002@gmail.com or else you can send me a connection in linkedIN (https://www.linkedin.com/in/dheeraj-kanike-b857a625a/)
+
 🚀 Happy Testing! 🧪🎉
 
 
